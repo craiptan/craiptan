@@ -20,6 +20,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/chris_taipan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/chris_taipan#gh-dark-mode-only)
 &nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/christopher-githui-8389b619a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr](https://linkedin.com/in/christopher-githui-8389b619a#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/christopher-githui-8389b619a#gh-dark-mode-only)
 &nbsp;&nbsp;
