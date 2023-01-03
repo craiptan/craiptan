@@ -36,8 +36,12 @@
 <img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
+<br />
+
+---
 ### Latest Blog Posts:
 
+---
 <br />
 
 <details>
