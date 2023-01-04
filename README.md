@@ -5,7 +5,7 @@
 -->
 ## I'm a Husband, Father, Developer, and Entrepreneuer:
 
-- 🔭 I’m currently working on: [Whiptix]
+- 🔭 I’m currently working on: [Whiptix](https://whiptix.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about Kafka
