@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on: [Whiptix](https://whiptix.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about Kafka
-- ⚡ Fun fact: I love playing football and Capentry
+- 🥅 2025 Goals: Buy back my time.
+- ⚡ Fun fact: I love playing football, providing creative solutions and doing capentry.
 
 ### Connect with me:
 
